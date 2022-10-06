@@ -1,0 +1,20 @@
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.exe.config
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.exe
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.pdb
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.Form1.resources
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.Properties.Resources.resources
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csproj.GenerateResource.Cache
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.exe
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.pdb
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csprojResolveAssemblyReference.cache
+D:\c# proj\new version\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.exe.config
+D:\c# proj\new version\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.exe
+D:\c# proj\new version\ImgCreator\ImgCreator\bin\x64\Release\ImgCreator.pdb
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csprojAssemblyReference.cache
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.Form1.resources
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.Properties.Resources.resources
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csproj.GenerateResource.cache
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.csproj.CoreCompileInputs.cache
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.exe
+D:\c# proj\new version\ImgCreator\ImgCreator\obj\x64\Release\ImgCreator.pdb

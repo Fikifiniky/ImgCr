@@ -1,0 +1,9 @@
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Debug\ImgCreator.exe.config
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Debug\ImgCreator.exe
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\bin\x64\Debug\ImgCreator.pdb
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.Form1.resources
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.Properties.Resources.resources
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.csproj.GenerateResource.Cache
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.exe
+C:\Users\Jan\source\repos\ImgCreator\ImgCreator\obj\x64\Debug\ImgCreator.pdb
